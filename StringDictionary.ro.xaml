@@ -220,13 +220,13 @@
 	<system:String x:Key="ToolTip.FileLock3">Este posibil ca serverul să nu accepte</system:String>
 
 	<!--  from version 1.7.0  -->
-	<system:String x:Key="Identity.SignIn">conectează-te</system:String>
-	<system:String x:Key="Identity.SignOut">Autentificare</system:String>
-	<system:String x:Key="Identity.SignOut.Question1">Caracteristicile abonamentului vor fi dezactivate și toate unitățile vor fi reconectate. Salvați fișierul (e) sau închideți aplicația (ele).</system:String>
-	<system:String x:Key="Identity.SignOut.Question2">Ești sigur că dorești să te înscrii?</system:String>
-	<system:String x:Key="Subscription.Switched">Comutare la {0}</system:String>
-	<system:String x:Key="Subscription.Switched.Desc1">Sesiunea curentă a fost solicitată să revină la cealaltă sesiune {0}. Toate unitățile vor fi reconectate. Salvați fișierul (e) sau închideți aplicația (ele).</system:String>
-	<system:String x:Key="Subscription.Switched.Desc2">Se va aplica după {0}, apăsați butonul OK pentru a fi imediat.</system:String>
+	<system:String x:Key="Identity.SignIn">Conectează-te</system:String>
+	<system:String x:Key="Identity.SignOut">Deconectați-vă</system:String>
+	<system:String x:Key="Identity.SignOut.Question1">Beneficiile abonamentului dumneavoastră vor fi dezactivate si toate driveurile for fi reconectate. Vă rugăm să salvați fișierul (ele) sau închideți aplicația (aplicațiile).</system:String>
+	<system:String x:Key="Identity.SignOut.Question2">Sunteți sigur că vreți să vă deconectați?</system:String>
+	<system:String x:Key="Subscription.Switched">Comutat la {0}</system:String>
+	<system:String x:Key="Subscription.Switched.Desc1">Sesiunea dvs. curentă a fost solicitată cealaltă sesiune {0}. Toate driveurile vor fi reconectate. Vă rugăm să salvați fișierul (ele) sau închideți aplicația (aplicațiile).</system:String>
+	<system:String x:Key="Subscription.Switched.Desc2">Se va aplica după {0}, apăsați butonul OK pentru a termina acum. </system:String>
 
 	<!--  from version 1.8.0  -->
 	<system:String x:Key="Words.Public">Public</system:String>
